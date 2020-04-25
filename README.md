@@ -1,1 +1,8 @@
 # 3D Printable Modular Drawers
+
+3D Printable Modular Drawers is a simple and scalable open-source Desk Organisers project.
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
