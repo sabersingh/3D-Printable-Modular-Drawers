@@ -7,7 +7,7 @@ Look closer into the future. 3D printing is a field that brings a lot of versati
 
 ## How to print.
 
-You can use my Cura profile from the project folder if you want to use my settings with Creality Ender-3 printer which I tried and tested to get the perfect balance of good quality and less time consuming print
+You can use my Cura profile from the project folder if you want to use my settings with Creality Ender-3 printer which I tried and tested to get the perfect balance of good quality and less time consuming print.
 <p align="justify">
   OR
 </p>
