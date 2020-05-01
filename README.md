@@ -5,7 +5,7 @@
 
 Look closer into the future. 3D printing is a field that brings a lot of versatility and innovations. Always wanted to get that something for your desk and never found something right? Functional and yet so decorative, this 3D printed drawer is what might make your time at home a little more creative and give you just that item you were looking for your desk and CREATED from the comfort of your own home. Moreover, it's a handy item to have to help you with your Spring cleaning and store tiny items. 3D Printable Modular Drawers is a simple and scalable open-source Desk Organiser project.
 
-![Drawer Image](https://content.instructables.com/F1X/TS8K/K9ADDI1V/F1XTS8KK9ADDI1V.LARGE.jpg?auto=webp&width=2000&height=1024&fit=bounds)
+![Drawer Image](https://content.instructables.com/FEW/H4P9/K9N901TA/FEWH4P9K9N901TA.LARGE.jpg?auto=webp&width=1024&height=1024&fit=bounds)
 
 ## How to print.
 
